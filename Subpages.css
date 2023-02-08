@@ -1,0 +1,28 @@
+.background{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(..//resources/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contentbox{
+    height: 100%;
+    width: 100%;
+    min-height: 90vh;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.25);
+    font-family: 'Montserrat';
+    color: #274F6A;
+}
+
+.fleft{
+    float: left;
+}
+
+.fright{
+    float: right;
+}

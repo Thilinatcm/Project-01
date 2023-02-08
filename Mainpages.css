@@ -1,0 +1,29 @@
+.background{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    
+}
+
+.contentboxlg{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background-color: white;
+    font-family: 'Montserrat';
+    color: #274F6A;
+}
+
+.dbbutton{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.fleft{
+    float: left;
+}
+
+.fright{
+    float: right;
+}
